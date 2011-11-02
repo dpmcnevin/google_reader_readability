@@ -6,3 +6,5 @@ boxes around stuff!
 
 Use chrome:extensions and "Load Unpacked Extensions" and point it at the
 directory that you cloned this repo to.
+
+![Screenshot](screenshot.png)
