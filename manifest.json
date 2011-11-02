@@ -1,0 +1,13 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "style.css" ],
+      "matches": [ "http://reader.google.com/*", "https://www.google.com/reader/*", "http://www.google.com/reader/*" ]
+   } ],
+   "description": "Make google reader look better",
+   "icons": {
+      "48": "simple.png"
+   },
+   "name": "Google Reader Readability",
+   "version": "0.0.1"
+}

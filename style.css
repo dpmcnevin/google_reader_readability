@@ -1,0 +1,31 @@
+#top-bar {
+  display: none;
+}
+
+#lhn-add-subscription-section {
+  height: 40px;
+}
+
+#viewer-header {
+  height: 40px;
+}
+
+#entries .entry .card {
+  border: 2px solid #B7C4ED;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#entries #current-entry .card {
+  border-color: #0B4ABF;
+}
+
+#entries .card .entry-title-link {
+  color: blue;
+}
+
+#entries #current-entry .card .entry-title-link {
+  color: blue;
+}
